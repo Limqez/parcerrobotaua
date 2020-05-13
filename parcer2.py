@@ -2,7 +2,7 @@ import requests
 import lxml.html
 
 base_url = 'https://rabota.ua'
-
+#Коломієць А.С.
 
 class JobsUa:
     def __init__(self,base_url):
